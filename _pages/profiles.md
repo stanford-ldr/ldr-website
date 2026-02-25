@@ -88,7 +88,7 @@ _styles: |
         <h3 class="person-card__name">Amin Saberi</h3>
         <p class="person-card__role">Professor, Management Science &amp; Engineering</p>
         <p class="person-card__links">
-          <a href="https://www.stanford.edu" rel="noopener">Homepage</a>
+          <a href="https://stanford.edu/~saberi/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/amin-saberi.md %}">Profile</a>
         </p>
       </div>
@@ -132,7 +132,7 @@ _styles: |
         <h3 class="person-card__name">Diyi Yang</h3>
         <p class="person-card__role">Assistant Professor, Computer Science</p>
         <p class="person-card__links">
-          <a href="https://cs.stanford.edu" rel="noopener">Homepage</a>
+          <a href="https://cs.stanford.edu/~diyiy/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/diyi-yang.md %}">Profile</a>
         </p>
       </div>
@@ -232,7 +232,7 @@ _styles: |
         <h3 class="person-card__name">Winnie Chow</h3>
         <p class="person-card__role">Graduate Student</p>
         <p class="person-card__links">
-          <a href="https://www.linkedin.com" rel="noopener">Homepage</a>
+          <a href="https://www.linkedin.com/in/winniechow0617/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/winnie-chow.md %}">Profile</a>
         </p>
       </div>
@@ -244,7 +244,7 @@ _styles: |
         <h3 class="person-card__name">Kent Hippler</h3>
         <p class="person-card__role">Graduate Student</p>
         <p class="person-card__links">
-          <a href="https://www.linkedin.com" rel="noopener">Homepage</a>
+          <a href="https://www.linkedin.com/in/jkenthippler/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/kent-hippler.md %}">Profile</a>
         </p>
       </div>
@@ -256,7 +256,7 @@ _styles: |
         <h3 class="person-card__name">Zhemin Huang</h3>
         <p class="person-card__role">Graduate Student</p>
         <p class="person-card__links">
-          <a href="https://www.linkedin.com" rel="noopener">Homepage</a>
+          <a href="https://www.linkedin.com/in/xav-huang/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/zhemin-huang.md %}">Profile</a>
         </p>
       </div>
@@ -280,7 +280,7 @@ _styles: |
         <h3 class="person-card__name">Sneha Jayaganthan</h3>
         <p class="person-card__role">Graduate Student</p>
         <p class="person-card__links">
-          <a href="https://www.linkedin.com" rel="noopener">Homepage</a>
+          <a href="https://www.linkedin.com/in/sneha-jayaganthan-a492601a9/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/sneha-jayaganthan.md %}">Profile</a>
         </p>
       </div>
@@ -292,7 +292,7 @@ _styles: |
         <h3 class="person-card__name">Meijin Li</h3>
         <p class="person-card__role">Graduate Student</p>
         <p class="person-card__links">
-          <a href="https://www.linkedin.com" rel="noopener">Homepage</a>
+          <a href="https://www.linkedin.com/in/limeijin/" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/meijin-li.md %}">Profile</a>
         </p>
       </div>

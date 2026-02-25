@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/winnie-chow.jpg
 role: Graduate Student
 affiliation: Stanford University
-website: https://www.linkedin.com
+website: https://www.linkedin.com/in/winniechow0617/
 email: wychow@stanford.edu
 ---
 

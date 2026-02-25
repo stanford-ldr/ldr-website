@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/sneha-jayaganthan.jpg
 role: Graduate Student
 affiliation: Stanford University
-website: https://www.linkedin.com
+website: https://www.linkedin.com/in/sneha-jayaganthan-a492601a9/
 email: snehajay@stanford.edu
 ---
 

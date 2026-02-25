@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/meijin-li.png
 role: Graduate Student
 affiliation: Stanford University
-website: https://www.linkedin.com
+website: https://www.linkedin.com/in/limeijin/
 email: meijin@stanford.edu
 ---
 

@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/diyi-yang.jpg
 role: Assistant Professor, Computer Science
 affiliation: Stanford University
-website: https://cs.stanford.edu
+website: https://cs.stanford.edu/~diyiy/
 ---
 
 {% include person-profile-hero.liquid %}

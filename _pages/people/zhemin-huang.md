@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/zhemin-huang.jpg
 role: Graduate Student
 affiliation: Stanford University
-website: https://www.linkedin.com
+website: https://www.linkedin.com/in/xav-huang/
 email: zhemin.huang@outlook.com
 ---
 

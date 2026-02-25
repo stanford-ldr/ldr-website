@@ -6,7 +6,7 @@ nav: false
 photo: /assets/img/ldr/amin-saberi.jpg
 role: Professor, Management Science & Engineering
 affiliation: Stanford University
-website: https://www.stanford.edu
+website: https://stanford.edu/~saberi/
 ---
 
 {% include person-profile-hero.liquid %}
