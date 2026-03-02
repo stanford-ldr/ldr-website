@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 description: Reading groups and related events for the Stanford community.
-nav: true
+nav: false
 nav_order: 5
 ---
 
