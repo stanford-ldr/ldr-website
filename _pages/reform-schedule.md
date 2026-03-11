@@ -231,6 +231,23 @@ Signing up is a great way to (1) force yourself to engage with the content of th
 <a href="{{ '/assets/reform/26_02_2026_grokking_2.pdf' | relative_url }}">Slides 2</a>
 <a href="https://arxiv.org/abs/2301.05217">Paper 1</a> <a href="https://arxiv.org/abs/2402.15175">Paper 2</a></td>
       </tr>
+      <tr>
+        <td>2026-03-05</td>
+        <td>Emergent Abilities 2: Emergent Abilities</td>
+        <td>
+<a href="{{ '/assets/reform/05_03_2026_Emergent_abilities_1.pdf' | relative_url }}">Slides 1</a>
+<a href="{{ '/assets/reform/05_03_2026_Emergent_abilities_2.pdf' | relative_url }}">Slides 2</a>
+<a href="https://arxiv.org/abs/2206.07682">Paper 1</a> <a href="https://arxiv.org/abs/2304.15004">Paper 2</a></td>
+      </tr>
+      <tr>
+        <td>2026-03-05</td>
+        <td>Distribution Sharpening and RL</td>
+        <td>
+          <a href="https://arxiv.org/pdf/2412.01951">Paper 1</a>
+          <a href="ttps://arxiv.org/abs/2506.02355">Paper 2</a> 
+          <a href="https://arxiv.org/abs/2510.14901">Paper 3</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
