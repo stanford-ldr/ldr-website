@@ -244,7 +244,7 @@ Signing up is a great way to (1) force yourself to engage with the content of th
         <td>Distribution Sharpening and RL</td>
         <td>
           <a href="https://arxiv.org/pdf/2412.01951">Paper 1</a>
-          <a href="ttps://arxiv.org/abs/2506.02355">Paper 2</a> 
+          <a href="https://arxiv.org/abs/2506.02355">Paper 2</a> 
           <a href="https://arxiv.org/abs/2510.14901">Paper 3</a>
         </td>
       </tr>
