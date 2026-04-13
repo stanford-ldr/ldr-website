@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REFORM (Rethinking Foundations of Real-world ML)
+title: REFORM 
 permalink: /reform/
 description: Weekly reading group on ML foundations and scalable reasoning systems.
 nav: true
@@ -171,7 +171,7 @@ _styles: |
     algorithmic ideas for improving base-model performance.
   </p>
 
-  <h3 class="reform-hero-section-title">Broader theme</h3>
+  <h3 class="reform-hero-section-title">Broader theme of REFORM (Rethinking Foundations of Real-world ML)</h3>
   <p>
     The last few years have seen rapid developments in the deployment and adoption of ML systems.
     And yet, we lack a cohesive understanding of how these systems work, and the principles and
