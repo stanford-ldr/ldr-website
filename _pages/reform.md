@@ -124,7 +124,19 @@ _styles: |
 
 <div class="reform-hero">
   <p>
-    <strong>Rethinking Foundations of Real-world ML.</strong> The last few years have seen rapid
+    <strong>Rethinking Foundations of Real-world ML.</strong> 
+  </p>
+  <p>
+    <strong>Spring 2026 theme: Understanding and Improving LLMs via a Theoretical Lens.</strong>
+    This quarter we will cover recent work on the internal structure of LLMs, compression and
+    quantization, optimization and training methods, RL-theoretic viewpoints, and systems or
+    algorithmic ideas for improving base-model performance.
+  </p>  
+
+
+  <p style="margin-top: 0.9rem;">
+    <strong>Broader theme:</strong>
+    The last few years have seen rapid
     developments in the deployment and adoption of ML systems. And yet, we lack a cohesive
     understanding of how these systems work, and the principles and laws (if any!) that govern
     their behavior. To this end, the goal of this reading group is to explore the intersection
@@ -135,14 +147,15 @@ _styles: |
     <li>What are the right questions to ask, and phenomena to explain—at what level of abstraction should we be aiming to explain them?</li>
     <li>How can tools from statistics, CS theory, and operations research inform a better understanding of machine learning algorithms and systems?</li>
   </ul>
-  <p>
-    We meet every Thursday at 5:00 PM in CoDa W101.
+  
+  <p style="margin-top: 0.9rem;">
+    We meet every Thursday from 5:00 to 6:00 PM. <strong>Room: TBD.</strong>
   </p>
 </div>
 
 <div class="reform-actions">
   <a href="{% link _pages/reform-schedule.md %}">Upcoming &amp; past sessions</a>
-  <a href="https://forms.gle/Pdz9AQ7mWVDMBJwm7">Sign up as a discussant</a>
+  <a href="https://forms.gle/JcRHgt1QYxFcnsyk8">Sign up to be a discussant for Spring 2026</a>
   <a href="mailto:reform-ml-list@stanford.edu">Mailing list</a>
 </div>
 
