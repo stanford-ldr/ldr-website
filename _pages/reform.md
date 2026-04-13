@@ -123,11 +123,14 @@ _styles: |
 ---
 
 <div class="reform-hero">
-  <p>
+  <p style="padding-bottom: 48px;">
     <strong>Rethinking Foundations of Real-world ML.</strong> 
   </p>
+
+  
   <p>
-    <strong>Spring 2026 theme: Understanding and Improving LLMs via a Theoretical Lens.</strong>
+    <strong>Spring 2026 theme:&nbsp;&nbsp;&nbsp; Understanding and Improving LLMs via a Theoretical Lens.</strong>
+    <br>
     This quarter we will cover recent work on the internal structure of LLMs, compression and
     quantization, optimization and training methods, RL-theoretic viewpoints, and systems or
     algorithmic ideas for improving base-model performance.
