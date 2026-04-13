@@ -120,30 +120,64 @@ _styles: |
   .reform-section {
     margin-top: 2rem;
   }
+
+  .reform-hero-kicker {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: var(--global-text-color-light);
+}
+
+.reform-hero-theme-label {
+  margin: 0;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+}
+
+.reform-hero-theme-title {
+  margin: 0.2rem 0 0.55rem 0;
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+.reform-hero-section-title {
+  margin: 1.1rem 0 0.35rem 0;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.reform-hero-logistics {
+  margin-top: 1rem !important;
+}
 ---
 
 <div class="reform-hero">
-  <p style="padding-bottom: 48px;">
-    <strong>Rethinking Foundations of Real-world ML.</strong> 
+  <p class="reform-hero-kicker">
+    Rethinking Foundations of Real-world ML
   </p>
 
-  
+  <p class="reform-hero-theme-label">Spring 2026 theme</p>
+  <h2 class="reform-hero-theme-title">
+    Understanding and Improving LLMs via a Theoretical Lens
+  </h2>
+
   <p>
-    <strong>Spring 2026 theme:&nbsp;&nbsp;&nbsp; Understanding and Improving LLMs via a Theoretical Lens.</strong>
-    <br>
     This quarter we will cover recent work on the internal structure of LLMs, compression and
     quantization, optimization and training methods, RL-theoretic viewpoints, and systems or
     algorithmic ideas for improving base-model performance.
-  </p>  
+  </p>
 
-
-  <p style="margin-top: 0.9rem;">
-    <strong>Broader theme:</strong>
-    The last few years have seen rapid
-    developments in the deployment and adoption of ML systems. And yet, we lack a cohesive
-    understanding of how these systems work, and the principles and laws (if any!) that govern
-    their behavior. To this end, the goal of this reading group is to explore the intersection
-    of cutting-edge experiments and corresponding explanations, with the goal of answering:
+  <h3 class="reform-hero-section-title">Broader theme</h3>
+  <p>
+    The last few years have seen rapid developments in the deployment and adoption of ML systems.
+    And yet, we lack a cohesive understanding of how these systems work, and the principles and
+    laws (if any!) that govern their behavior. To this end, the goal of this reading group is to
+    explore the intersection of cutting-edge experiments and corresponding explanations, with the
+    goal of answering:
   </p>
   <ul>
     <li>How might we devise theoretical models that not only explain unexpected phenomena, but also predict new phenomena that we can verify experimentally?</li>
@@ -151,7 +185,7 @@ _styles: |
     <li>How can tools from statistics, CS theory, and operations research inform a better understanding of machine learning algorithms and systems?</li>
   </ul>
   
-  <p style="margin-top: 0.9rem;">
+  <p class="reform-hero-logistics">
     We meet every Thursday from 5:00 to 6:00 PM. <strong>Room: TBD.</strong>
   </p>
 </div>
