@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REFORM
+title: REFORM (Rethinking Foundations of Real-world ML)
 permalink: /reform/
 description: Weekly reading group on ML foundations and scalable reasoning systems.
 nav: true
@@ -156,9 +156,9 @@ _styles: |
 ---
 
 <div class="reform-hero">
-  <p class="reform-hero-kicker">
+  <!-- <p class="reform-hero-kicker">
     Rethinking Foundations of Real-world ML
-  </p>
+  </p> -->
 
   <p class="reform-hero-theme-label">Spring 2026 theme</p>
   <h2 class="reform-hero-theme-title">
