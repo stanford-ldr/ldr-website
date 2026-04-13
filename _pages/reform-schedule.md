@@ -48,17 +48,21 @@ _styles: |
   }
 ---
 
-Meetings are held every Thursday at 5 PM (CoDa W101).
+Meetings are held every Thursday at 5 PM. **Room: TBD.**
 
-A list of topics, suggested reading, and session plans is available [here](https://docs.google.com/spreadsheets/d/14ChmArQCa4wlQ3vE7taNzmzd96d0N_a7XaJOgaDPunU/edit?gid=0#gid=0).
+Spring 2026 theme: **Understanding and Improving LLMs via a Theoretical Lens.** This quarter we plan to cover recent work on the internal structure of LLMs, compression and quantization, optimization and training methods, RL-theoretic viewpoints, and systems or algorithmic ideas for improving model performance.
 
-Sign up to be a discussant [here](https://tinyurl.com/reform-ml-signup-w26). Goal(s) of the discussant group:
+Sign up to be a discussant [here](https://forms.gle/JcRHgt1QYxFcnsyk8). Goal(s) of the discussant group:
 
 - Prepare a 20–30 minute presentation, accessible to a second-year PhD student, focusing on (a) seeding discussion, (b) identifying gaps and connections, and (c) formulating open problems
 - We suggest several papers for each week—more than one can cover thoroughly in a week. Pick a small, focused set of papers and read them thoroughly
 - Do a single “deep dive” per week about one subject (this can span multiple papers)
 
 Signing up is a great way to (1) force yourself to engage with the content of the paper, (2) get to know your co-discussant(s), and (3) ensure the success of the reading group.
+
+[comment]: <> A list of topics, suggested reading, and session plans is available [here](https://docs.google.com/spreadsheets/d/14ChmArQCa4wlQ3vE7taNzmzd96d0N_a7XaJOgaDPunU/edit?gid=0#gid=0).
+
+
 
 ## Upcoming & Past Sessions
 
