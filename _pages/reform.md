@@ -122,37 +122,37 @@ _styles: |
   }
 
   .reform-hero-kicker {
-  margin: 0 0 0.5rem 0;
-  font-size: 0.98rem;
-  font-weight: 700;
-  color: var(--global-text-color-light);
-}
+    margin: 0 0 0.5rem 0;
+    font-size: 0.98rem;
+    font-weight: 700;
+    color: var(--global-text-color-light);
+  }
+  
+  .reform-hero-theme-label {
+    margin: 0;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+  }
 
-.reform-hero-theme-label {
-  margin: 0;
-  font-size: 0.82rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--global-text-color-light);
-}
-
-.reform-hero-theme-title {
-  margin: 0.2rem 0 0.55rem 0;
-  font-size: 1.5rem;
-  line-height: 1.25;
-}
-
-.reform-hero-section-title {
-  margin: 1.1rem 0 0.35rem 0;
-  font-size: 1rem;
-  font-weight: 700;
-  line-height: 1.3;
-}
-
-.reform-hero-logistics {
-  margin-top: 1rem !important;
-}
+  .reform-hero-theme-title {
+    margin: 0.2rem 0 0.55rem 0;
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+  
+  .reform-hero-section-title {
+    margin: 1.1rem 0 0.35rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+  
+  .reform-hero-logistics {
+    margin-top: 1rem !important;
+  }
 ---
 
 <div class="reform-hero">
