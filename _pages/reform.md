@@ -186,7 +186,7 @@ _styles: |
   </ul>
   
   <p class="reform-hero-logistics">
-    We meet every Thursday from 5:00 to 6:00 PM. <strong>Room: CoDa E401 (exception: on April 23rd, we meet in CoDa W101)</strong>
+    We meet every Thursday from 5:00 to 6:00 PM. <strong>Room: CoDa E401</strong> (exception: on April 23rd, we meet in CoDa W101)
   </p>
 </div>
 
