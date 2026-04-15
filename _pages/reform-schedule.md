@@ -48,7 +48,7 @@ _styles: |
   }
 ---
 
-Meetings are held every Thursday at 5 PM. **Room: TBD.**
+Meetings are held every Thursday at 5 PM. **Room: CoDa E401 (exception: on April 23rd, we meet in CoDa W101).**
 
 Spring 2026 theme: **Understanding and Improving LLMs via a Theoretical Lens.** This quarter we plan to cover recent work on the internal structure of LLMs, compression and quantization, optimization and training methods, RL-theoretic viewpoints, and systems or algorithmic ideas for improving model performance.
 
