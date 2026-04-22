@@ -244,13 +244,43 @@ Signing up is a great way to (1) force yourself to engage with the content of th
 <a href="https://arxiv.org/abs/2206.07682">Paper 1</a> <a href="https://arxiv.org/abs/2304.15004">Paper 2</a></td>
       </tr>
       <tr>
-        <td>2026-03-05</td>
+        <td>2026-03-12</td>
         <td>Distribution Sharpening and RL</td>
         <td>
+          <a href="{{ '/assets/reform/12_03_2026_The%20Sharpening%20Mechanism.pdf' | relative_url }}">Slides 1</a>
+          <a href="{{ '/assets/reform/12_03_2026_Reasoning_via_Sampling.pdf' | relative_url }}">Slides 2</a>
           <a href="https://arxiv.org/pdf/2412.01951">Paper 1</a>
           <a href="https://arxiv.org/abs/2506.02355">Paper 2</a> 
           <a href="https://arxiv.org/abs/2510.14901">Paper 3</a>
         </td>
+      </tr>
+      <tr class="reform-break">
+        <td colspan="3">(Between-quarter break)</td>
+      </tr>
+      <tr>
+        <td>2026-04-16</td>
+        <td>Introduction + Internal Structure of LLMs 1 (Low-Logit Rank)</td>
+        <td><a href="{{ '/assets/reform/16_04_2026_Low-Logit%20Rank.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/abs/2510.24966">Paper</a></td>
+      </tr>
+      <tr>
+        <td>2026-04-23</td>
+        <td>Internal Structure of LLMs 2 (Sublimal effects)</td>
+        <td><a href="https://arxiv.org/abs/2602.04863">Paper</a></td>
+      </tr>
+      <tr>
+        <td>2026-04-30</td>
+        <td>Internal Structure of LLMs 3 (Linear representation hypothesis)</td>
+        <td>Paper: TBD</td>
+      </tr>
+      <tr>
+        <td>2026-05-07</td>
+        <td>LLM Compression 1 (Speeding up attention)</td>
+        <td>Paper: TBD</td>
+      </tr>
+      <tr>
+        <td>2026-05-14</td>
+        <td>LLM Compression 2 (Compressing Weights)</td>
+        <td>Paper: TBD</td>
       </tr>
     </tbody>
   </table>
