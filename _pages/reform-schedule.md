@@ -265,12 +265,12 @@ Signing up is a great way to (1) force yourself to engage with the content of th
       <tr>
         <td>2026-04-23</td>
         <td>Internal Structure of LLMs 2 (Sublimal effects)</td>
-        <td><a href="https://arxiv.org/abs/2602.04863">Paper</a></td>
+        <td><a href="{{ '/assets/reform/23_04_2026_Sublimal%20Effects.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/abs/2602.04863">Paper</a></td>
       </tr>
       <tr>
         <td>2026-04-30</td>
         <td>Internal Structure of LLMs 3 (Linear representation hypothesis)</td>
-        <td>Paper: TBD</td>
+        <td><a href="https://arxiv.org/abs/1502.03520">Paper 1</a> <a href="https://arxiv.org/abs/2209.10652">Paper 2</a></td>
       </tr>
       <tr>
         <td>2026-05-07</td>
