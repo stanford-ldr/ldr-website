@@ -270,12 +270,12 @@ Signing up is a great way to (1) force yourself to engage with the content of th
       <tr>
         <td>2026-04-30</td>
         <td>Internal Structure of LLMs 3 (Linear representation hypothesis)</td>
-        <td><a href="https://arxiv.org/abs/1502.03520">Paper 1</a> <a href="https://arxiv.org/abs/2209.10652">Paper 2</a></td>
+        <td><a href="{{ '/assets/reform/30_04_2026_linear_representation_1.pdf' | relative_url }}">Slides 1</a> <a href="{{ '/assets/reform/30_04_2026_linear_representation_2.pdf' | relative_url }}">Slides 2</a> <a href="https://arxiv.org/abs/1502.03520">Paper 1</a> <a href="https://arxiv.org/abs/2209.10652">Paper 2</a></td>
       </tr>
       <tr>
         <td>2026-05-07</td>
         <td>LLM Compression 1 (Speeding up attention)</td>
-        <td>Paper: TBD</td>
+        <td><a href="https://arxiv.org/pdf/2004.05150">Paper 1</a> <a href="https://arxiv.org/pdf/2007.14062">Paper 2</a></td>
       </tr>
       <tr>
         <td>2026-05-14</td>
