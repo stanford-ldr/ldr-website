@@ -4,7 +4,7 @@ permalink: /people/xizhi-tan/
 title: Xizhi Tan
 nav: false
 photo: /assets/img/ldr/xizhitan.jpeg
-role: Postdoctoral Fellow
+role: Motwani Postdoctoral Fellow
 affiliation: Stanford University
 website: https://xizhitan.github.io
 email: xizhi@stanford.edu

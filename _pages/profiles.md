@@ -151,7 +151,7 @@ _styles: |
       <img class="person-card__photo" src="{{ '/assets/img/ldr/anay-mehrotra.jpg' | relative_url }}" alt="Anay Mehrotra" loading="lazy" />
       <div class="person-card__content">
         <h3 class="person-card__name">Anay Mehrotra</h3>
-        <p class="person-card__role">Postdoctoral Fellow</p>
+        <p class="person-card__role">Motwani Postdoctoral Fellow</p>
         <p class="person-card__links">
           <a href="https://anaymehrotra.com" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/anay-mehrotra.md %}">Profile</a>
@@ -163,7 +163,7 @@ _styles: |
       <img class="person-card__photo" src="{{ '/assets/img/ldr/xizhitan.jpeg' | relative_url }}" alt="Xizhi Tan" loading="lazy" />
       <div class="person-card__content">
         <h3 class="person-card__name">Xizhi Tan</h3>
-        <p class="person-card__role">Postdoctoral Fellow</p>
+        <p class="person-card__role">Motwani Postdoctoral Fellow</p>
         <p class="person-card__links">
           <a href="https://xizhitan.github.io" rel="noopener">Homepage</a>
           <a href="{% link _pages/people/xizhi-tan.md %}">Profile</a>
