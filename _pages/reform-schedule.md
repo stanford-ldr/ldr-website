@@ -52,7 +52,9 @@ Meetings are held every Thursday at 5 PM. **Room: CoDa E401** (exception: on Apr
 
 Spring 2026 theme: **Understanding and Improving LLMs via a Theoretical Lens.** This quarter we plan to cover recent work on the internal structure of LLMs, compression and quantization, optimization and training methods, RL-theoretic viewpoints, and systems or algorithmic ideas for improving model performance.
 
-Sign up to be a discussant [here](https://forms.gle/JcRHgt1QYxFcnsyk8). Goal(s) of the discussant group:
+To receive REFORM announcements and schedule updates, join the [REFORM mailing list](https://mailman.stanford.edu/mailman/listinfo/reform-ml-list).
+
+To present or help lead a session, sign up to be a discussant [here](https://forms.gle/JcRHgt1QYxFcnsyk8). Goal(s) of the discussant group:
 
 - Prepare a 20–30 minute presentation, accessible to a second-year PhD student, focusing on (a) seeding discussion, (b) identifying gaps and connections, and (c) formulating open problems
 - We suggest several papers for each week—more than one can cover thoroughly in a week. Pick a small, focused set of papers and read them thoroughly

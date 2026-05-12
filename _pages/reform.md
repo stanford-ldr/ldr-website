@@ -193,7 +193,7 @@ _styles: |
 <div class="reform-actions">
   <a href="{% link _pages/reform-schedule.md %}">Upcoming &amp; past sessions</a>
   <a href="https://forms.gle/JcRHgt1QYxFcnsyk8">Sign up to be a discussant for Spring 2026</a>
-  <a href="mailto:reform-ml-list@stanford.edu">Mailing list</a>
+  <a href="https://mailman.stanford.edu/mailman/listinfo/reform-ml-list">Join mailing list</a>
 </div>
 
 <div class="reform-meta">
