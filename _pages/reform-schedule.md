@@ -277,12 +277,12 @@ Signing up is a great way to (1) force yourself to engage with the content of th
       <tr>
         <td>2026-05-07</td>
         <td>LLM Compression 1 (Speeding up attention)</td>
-        <td><a href="https://arxiv.org/pdf/2004.05150">Paper 1</a> <a href="https://arxiv.org/pdf/2007.14062">Paper 2</a></td>
+        <td><a href="{{ '/assets/reform/07_05_2026_faster-attention.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/pdf/2004.05150">Paper 1</a> <a href="https://arxiv.org/pdf/2007.14062">Paper 2</a></td>
       </tr>
       <tr>
         <td>2026-05-14</td>
         <td>LLM Compression 2 (Compressing Weights)</td>
-        <td>Paper: TBD</td>
+        <td><a href="https://arxiv.org/abs/2504.19874">Paper</a></td>
       </tr>
     </tbody>
   </table>
