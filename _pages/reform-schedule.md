@@ -282,7 +282,7 @@ Signing up is a great way to (1) force yourself to engage with the content of th
       <tr>
         <td>2026-05-14</td>
         <td>LLM Compression 2 (Compressing Weights)</td>
-        <td><a href="https://arxiv.org/abs/2504.19874">Paper</a></td>
+        <td><a href="{{ '/assets/reform/14_05_2026_quantizing-kv-cache.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/abs/2504.19874">Paper</a></td>
       </tr>
     </tbody>
   </table>
