@@ -284,6 +284,16 @@ Signing up is a great way to (1) force yourself to engage with the content of th
         <td>LLM Compression 2 (Compressing Weights)</td>
         <td><a href="{{ '/assets/reform/14_05_2026_quantizing-kv-cache.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/abs/2504.19874">Paper</a></td>
       </tr>
+      <tr>
+        <td>2026-05-21</td>
+        <td>Recursive Language Models</td>
+        <td><a href="{{ '/assets/reform/21_05_2026_Recursive_LM.pdf' | relative_url }}">Slides</a> <a href="https://arxiv.org/abs/2512.24601">Paper</a></td>
+      </tr>
+      <tr>
+        <td>2026-05-28</td>
+        <td>LLM Reasoning (Caterpillar of Thoughts and Parallel Reasoning)</td>
+        <td><a href="https://arxiv.org/pdf/2603.22784">Paper 1</a> <a href="https://arxiv.org/pdf/2603.07887">Paper 2</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
